@@ -1,0 +1,175 @@
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe.config
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\EmailAPP.pdb
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MailKit.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Buffers.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Memory.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.dll
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MailKit.pdb
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MailKit.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MailKit.dll.config
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MimeKit.pdb
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MimeKit.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll.config
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Buffers.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Memory.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CODE\C#\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.xml
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.AssemblyReference.cache
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Form1.resources
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Properties.Resources.resources
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.GenerateResource.cache
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.CoreCompileInputs.cache
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.Up2Date
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.exe
+D:\CODE\C#\EmailAPP\EmailAPP\obj\Debug\EmailAPP.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe.config
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\EmailAPP.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Buffers.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Memory.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.dll.config
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll.config
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Buffers.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Memory.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.AssemblyReference.cache
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Form1.resources
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Properties.Resources.resources
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.GenerateResource.cache
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.Up2Date
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.exe
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.pdb
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe.config
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\EmailAPP.pdb
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Buffers.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Memory.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.dll
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.pdb
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MailKit.dll.config
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.pdb
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll.config
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Buffers.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Memory.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.xml
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.AssemblyReference.cache
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Form1.resources
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Properties.Resources.resources
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.GenerateResource.cache
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.CoreCompileInputs.cache
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.Up2Date
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.exe
+D:\zalo\EmailAPP (1)\EmailAPP\EmailAPP\obj\Debug\EmailAPP.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe.config
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\EmailAPP.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MailKit.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Buffers.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Memory.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.dll
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MailKit.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MailKit.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MailKit.dll.config
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MimeKit.pdb
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MimeKit.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll.config
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Buffers.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Memory.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.xml
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.AssemblyReference.cache
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Form1.resources
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Properties.Resources.resources
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.GenerateResource.cache
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.Up2Date
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.exe
+D:\Hoc Tap\Lap trinh mang\Cuoiky\EmailAPP\EmailAPP\obj\Debug\EmailAPP.pdb
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe.config
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\EmailAPP.exe
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\EmailAPP.pdb
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MailKit.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Buffers.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Memory.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.dll
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\BouncyCastle.Cryptography.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MailKit.pdb
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MailKit.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MailKit.dll.config
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MimeKit.pdb
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MimeKit.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\MimeKit.dll.config
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Buffers.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Formats.Asn1.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Memory.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Numerics.Vectors.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CODE\EmailAPP\EmailAPP\bin\Debug\System.ValueTuple.xml
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.AssemblyReference.cache
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Form1.resources
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.Properties.Resources.resources
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.GenerateResource.cache
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.CoreCompileInputs.cache
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.csproj.Up2Date
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.exe
+D:\CODE\EmailAPP\EmailAPP\obj\Debug\EmailAPP.pdb
