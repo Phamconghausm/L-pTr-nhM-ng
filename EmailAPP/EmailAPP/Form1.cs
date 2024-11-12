@@ -67,7 +67,7 @@ namespace EmailAPP
                     await client.DisconnectAsync(true);
                 }
 
-                MessageBox.Show("Email đã được gửi thành công!");
+                MessageBox.Show("Email đã được gửi thành công !");
             }
             catch (MailKit.Security.AuthenticationException)
             {
@@ -162,7 +162,7 @@ namespace EmailAPP
         {
             if (string.IsNullOrWhiteSpace(txtTo.Text) || string.IsNullOrWhiteSpace(txtSubject.Text))
             {
-                MessageBox.Show("Vui lòng điền đầy đủ thông tin người nhận và tiêu đề.");
+                MessageBox.Show("Vui lòng điền đầy đủ thông tin người nhận và tiêu đề!");
                 return;
             }
 
