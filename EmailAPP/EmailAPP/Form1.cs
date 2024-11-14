@@ -14,8 +14,8 @@ namespace EmailAPP
 {
     public partial class Form1 : Form
     {
-        private string email = "conghau0169@gmail.com";
-        private string password = "kbkh sklp cckj cstk";
+        private readonly string email = Environment.GetEnvironmentVariable("EMAIL_APP_EMAIL");
+        private readonly string password = Environment.GetEnvironmentVariable("EMAIL_APP_PASSWORD");
         private string smtpServer = "smtp.gmail.com";
         private string imapServer = "imap.gmail.com";
         private int smtpPort = 465;
@@ -28,6 +28,15 @@ namespace EmailAPP
         public Form1()
         {
             InitializeComponent();
+
+            // Kiểm tra biến môi trường
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(password))
+            {
+                MessageBox.Show("Lỗi: Không tìm thấy thông tin đăng nhập. Vui lòng thiết lập biến môi trường 'EMAIL_APP_EMAIL' và 'EMAIL_APP_PASSWORD'.", 
+                                "Lỗi đăng nhập", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.Close(); // Đóng ứng dụng nếu thiếu thông tin đăng nhập
+            }
+
             lstEmails.SelectedIndexChanged += LstEmails_SelectedIndexChanged;
             LoadDrafts();
         }
@@ -67,7 +76,7 @@ namespace EmailAPP
                     await client.DisconnectAsync(true);
                 }
 
-                MessageBox.Show("Email đã được gửi thành công !");
+                MessageBox.Show("Email đã được gửi thành công!");
             }
             catch (MailKit.Security.AuthenticationException)
             {
